@@ -5,7 +5,7 @@
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
 - [汇集最有用的PHP资源](https://github.com/skykingf/awesome-php)
-- []()
+- [PHP相关资料的收集汇总](https://github.com/ly2513/Awesome-PHP)
 - []()
 - []()
 - []()

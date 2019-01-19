@@ -1,0 +1,11 @@
+
+- [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
+- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [Awesome PHP CN](https://github.com/JingwenTian/awesome-php)
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [Awesome Shell](https://github.com/alebcay/awesome-shell)
+- [汇集最有用的PHP资源](https://github.com/skykingf/awesome-php)
+- []()
+- []()
+- []()
+- []()
